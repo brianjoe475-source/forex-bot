@@ -1,8 +1,0 @@
-python-telegram-bot==20.7
-pandas==2.1.4
-pandas-ta==0.3.14b0
-requests==2.31.0
-cachetools==5.3.2
-python-dotenv==1.0.0
-pytz==2023.3
-nest-asyncio==1.5.8
